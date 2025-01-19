@@ -9,7 +9,7 @@ I started my journey by crunching numbers 🧮 but soon discovered the beauty of
 🌍 I’m based in Canada
 💼 Exploring opportunities in Data Analytics and AI/ML Development
 💡 Currently working on anomaly detection for real-world fraud prevention
-📧 Contact me at kavyamurugan@example.com
+📧 Contact me at kavyarm2020@gmail.com
 🛠️ Skills
 Languages: Python 🐍, SQL 🗃️, JavaScript 🌐
 Frameworks/Tools: TensorFlow, Pandas, NumPy, PySpark, Scikit-learn, AWS (S3, Redshift), Airflow
@@ -22,7 +22,13 @@ Other Awesome Stuff: ETL/ELT pipelines 🚦, big data analytics 📊, CI/CD pipe
 📈 Helped improve transaction security by 45% using fraud detection models.
 🎨 Love merging data visualization with creative storytelling.
 ✨ Passionate about contributing to open-source projects and scalable systems.
+
 🔗 Let’s Connect!
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kavya-m-36b113109/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
 Portfolio: MyPortfolio
 LinkedIn: Connect with me
 GitHub: Follow Me
