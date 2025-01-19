@@ -24,11 +24,12 @@ Other Awesome Stuff: ETL/ELT pipelines 🚦, big data analytics 📊, CI/CD pipe
 ✨ Passionate about contributing to open-source projects and scalable systems.
 
 🔗 Let’s Connect!
+LinkedIn: Connect with me
 <div id="badges">
   <a href="https://www.linkedin.com/in/kavya-m-36b113109/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
-Portfolio: MyPortfolio
-LinkedIn: Connect with me
-GitHub: Follow Me
+
+
+
