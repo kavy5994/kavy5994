@@ -1,7 +1,7 @@
 👋 Hi there, I'm Kavya Murugan!
 🚀 Data Alchemist & Tech Enthusiast 🌐
 
-Profile Views: 🧮 (because metrics are cool, right?)
+Profile Views: 🧮 
 
 $ whoami: An explorer in the realm of Data Analytics, Machine Learning, and Cloud Solutions!
 I started my journey by crunching numbers 🧮 but soon discovered the beauty of uncovering patterns and stories hidden within datasets. Now, I bridge the gap between data and decisions, working my magic as a data analyst and machine learning enthusiast!
